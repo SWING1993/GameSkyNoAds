@@ -1,8 +1,8 @@
 Package: com.swing.gamesky
-Name: GameSkyNoAds
+Name: GameSkyNoAds-Rootless
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: 游民星空App(基于v6.23.10开发)去广告插件，如果失效请联系WeChat：420408858
 Maintainer: SWING
 Author: SWING
 Section: Tweaks
